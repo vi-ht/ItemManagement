@@ -1,11 +1,18 @@
-# Welcome to ItemManagement repository
+# 💻 Welcome to ItemManagement repository 💻 
 
-## You will find in this repo:
+### 1️⃣ You will find in this repo:
 * ItemManagement Java source code
 * .gitignore file to tell Git which ones will be uploaded
 * README.md - this file ifself to show the home page of this repo
-
-### UI of this program:
+### 2️⃣ Funtion of this program: 
+Implement ItemDB program with the following features:
+- Add/update/remove items
+- Add/update/remove suppliers
+- Search items based on names
+- Paging
+- Check primary key constraints
+- Change language (VI-EN)
+### 3️⃣ UI of this program:
 ![UI](https://github.com/vi-ht/ItemManagement/blob/master/Image/UI.png)
 
 ## 💬 Connect me via ❓ 
